@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "belfz.search-crates-io",
+    "ahmadawais.shades-of-purple",
+    "vscodevim.vim",
+    "rust-lang.rust-analyzer",
+    "vadimcn.vscode-lldb"
+  ]
+}

@@ -1,0 +1,9 @@
+[workspace.package]
+name = "github-repo-manager"
+version = "0.1.0"
+edition = "2023"
+
+[workspace]
+members = ["crates/*"]
+
+[workspace.dependencies]
